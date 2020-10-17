@@ -1,0 +1,9 @@
+<html>
+  <body>
+  <script>history.pushState('', '', '/')</script>
+    <form action="http://urls" method="POST">
+      <input type="hidden" name="any" value="any" />
+      <input type="submit" value="Submit request" />
+    </form>
+  </body>
+</html>
