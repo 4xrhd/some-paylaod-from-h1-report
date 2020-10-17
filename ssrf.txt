@@ -1,2 +1,4 @@
- Content[CR]Length: 42
+X-Forwarded-Host: 
+X-Host: 
+X-Forwarded-Server: 
  
