@@ -1,13 +1,3 @@
-Title: 	Ultimate Cross Site Scripting Attack Cheat Sheet
-Last 	Update: 2020-07-14
-
-Note: This is a technical sheet for research about directory- and path traversal attacks.
-Please continue the ultimate directory traversal cheat sheet list or contribute to update.
-This cheat sheet list goes out to assist pentesters, developers, researchers & whitehats.
-
-
-
-
 Tags to Trigger XSS Attacks:
 onclick
 ondblclick
